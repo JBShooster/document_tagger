@@ -2,4 +2,3 @@ Document Tagger uses regular expressions to parse through metadata of texts deri
 
 Script1.py shows the metadata for the first index of 'pg_sample_texts.py' but for some reason, most of the information is missing for the second index. Wonder why...
 
-Perhaps because the information is not labeled in the sample texts.
